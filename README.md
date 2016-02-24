@@ -1,1 +1,1 @@
-# around-me
+Around Me allows you to quickly find out information about your surroundings. It quickly identifies your position and allows you to choose the nearest Bank, Gas -Station, Hospital, Hotel, Movie Theatre, Restaurant, Supermarket, Theatre and Taxi. Around Me shows you a complete list of all the businesses in the category you have tapped on along with the distance from where you are.
